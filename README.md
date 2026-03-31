@@ -15,3 +15,5 @@ O que é este projeto?
 - Gerar resumos sobre a história de regiões específicas (Kanto, Johto, etc.).
 - Criar roteiros de treinamento personalizados.
 - Ouvir "Podcasts" (Deep Dives) gerados pela IA sobre os seus monstrinhos favoritos.
+
+  https://notebooklm.google.com/notebook/bb558f31-9292-4af4-99d9-0571fc3fae07
