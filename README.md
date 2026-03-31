@@ -1,6 +1,12 @@
 #PokéLM: Desbravando o Universo Pokémon com IA
 
-Bem-vindo ao PokéLM! Este repositório é um guia prático para quem deseja utilizar o NotebookLM como sua Pokédex inteligente. Se você é novo na franquia ou quer organizar décadas de lore (história), este projeto vai te ensinar a transformar documentos em um mentor particular sobre Pokémon.
+Recentemente, eu comprei o Pokémon FireRed e pude relembrar dos tempos de infância, quando passava horas explorando o universo Pokémon. Mas eu sempre acompanhei de forma mais superficial, sem me aprofundar muito.
+
+Agora, depois dos 35 anos, decidi entrar de cabeça no universo Pokémon e estou criando este repositório que explora o anime e ajuda você, que nunca teve muito contato com a franquia ou, assim como eu, absorveu tudo de forma mais básica, a conhecer melhor esse universo e saber o que assistir ou jogar primeiro.
+
+Eu usei o NotebookLM como uma central de organização para armazenar todas as fontes e conteúdos sobre Pokémon.
+
+Para organizar e armazenar essas informações, usei algumas fontes que julgo importantes para conhecer o universo Pokémon. 
 
 O que é este projeto?
 
